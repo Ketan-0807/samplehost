@@ -32,7 +32,9 @@ const Form = () => {
         Message: Message
       });
       setSubmitted(true);
+     
     }
+    alert("Thank You for Your FeedBack & We Will  Get Back to you Soon!");
   };
 
   return (
